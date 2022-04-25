@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "start": "nuxi dev",
+    "build": "nuxi build",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "autoprefixer": "10.4.2",
+    "nuxt": "3.0.0-rc.1"
+  },
+  "keywords": [],
+  "name": "get-started-with-sanity-nuxt-starter",
+  "description": ""
+}
