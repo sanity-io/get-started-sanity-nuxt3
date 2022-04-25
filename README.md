@@ -3,7 +3,7 @@
 This repository is a part of the getting started guide for Sanity and Nuxt.
 Follow the tutorial in the [Sanity documentation](https://sanity.io/docs/connect-your-content-to-nuxt-js)
 
-## Build Setup
+## Setup
 
 ```bash
 # install dependencies
@@ -20,4 +20,4 @@ $ yarn start
 $ yarn generate
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+For detailed explanation on how Nuxt works, checkout [Nuxt.js docs](https://nuxtjs.org).
