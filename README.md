@@ -1,4 +1,7 @@
-# Minimal Nuxt Starter
+# Get started with Sanity and Nuxt3
+
+This repository is a part of the getting started guide for Sanity and Nuxt.
+Follow the tutorial in the [Sanity documentation](https://sanity.io/docs/connect-your-content-to-nuxt-js)
 
 ## Build Setup
 
