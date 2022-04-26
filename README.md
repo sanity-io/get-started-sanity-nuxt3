@@ -1,23 +1,26 @@
 # Get started with Sanity and Nuxt3
 
-This repository is a part of the getting started guide for Sanity and Nuxt.
-Follow the tutorial in the [Sanity documentation](https://sanity.io/docs/connect-your-content-to-nuxt-js)
+This project contains a minimal SvelteKit starter project to list pets on a page. It is used in the [Getting started with Sanity](https://www.sanity.io/docs/getting-started) guide.
 
-## Setup
+## Set up
+
+To set up this project locally, you will need to have [Node](https://nodejs.org/en/) installed, then run:
 
 ```bash
-# install dependencies
-$ yarn install
+npm install
+``` 
 
-# Serve with hot reload at localhost:3000
-$ yarn dev
+After that, your dependencies are installed and you can start a development server: 
 
-# Build for production and launch server
-$ yarn build
-$ yarn start
-
-# Generate static project
-$ yarn generate
+```bash
+npm run dev
 ```
 
-For detailed explanation on how Nuxt works, checkout [Nuxt.js docs](https://nuxtjs.org).
+## Connect your content
+
+To learn more about connecting your data to this starter project: 
+
+- [Getting started with Sanity](https://www.sanity.io/docs/getting-started)
+- [Connect your content with Nuxt3](https://www.sanity.io/docs/connect-your-content-to-nuxt3)
+
+
