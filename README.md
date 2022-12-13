@@ -23,4 +23,3 @@ To learn more about connecting your data to this starter project:
 - [Getting started with Sanity](https://www.sanity.io/docs/getting-started)
 - [Connect your content with Nuxt3](https://www.sanity.io/docs/connect-your-content-to-nuxt3)
 
-
